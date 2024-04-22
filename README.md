@@ -2,7 +2,7 @@
 
 # Idea
 Book: Java cómo programar, 10ed - Deitel & Deitel 2016
-Ejercise 10.2
+Ejercicio 10.2
 
 [Source Code](https://github.com/Johan-Palacios/abstractArtGenerator)
 
